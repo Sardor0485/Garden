@@ -19,9 +19,6 @@ body {
     object-fit: cover;
     margin: 10px;
     border-radius:5px;
-    box-shadow:3px 3px 2px #000;
-    border-top:solid 1px #fff;
-    border-left:solid 1px #777;
    
 }
 
